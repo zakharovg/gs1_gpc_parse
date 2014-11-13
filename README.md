@@ -13,4 +13,5 @@ Steps to parse:
 4. Paste script from parse_gpctools to console.
 5. Clear the console.
 6. Type paste_tree();
-7. Copy tab separated codes and names of all displayed categories.
+7. Copy tab separated codes and names from console to "Translation" tab of xslm document
+8. Open developer tools in excel, find Module 1 and run TranslateWorksheet procedure.
